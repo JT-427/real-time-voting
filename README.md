@@ -44,6 +44,10 @@ conda activate ENV_NAME
 ```
 pip install -r requirements.txt
 ```
+### Reset database
+```
+flask reset
+```
 ### Start server
 ```
 gunicorn --worker-class eventlet -w 1 app:app -b 127.0.0.1:5000
