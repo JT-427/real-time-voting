@@ -8,6 +8,8 @@
 ### 投票名單
 ![img]()
 
+***
+
 ## Requirements
 - python == 3.8
 - [requirements.txt](https://github.com/JT-427/real-time-voting/blob/master/requirements.txt)
@@ -49,3 +51,8 @@ gunicorn --worker-class eventlet -w 1 app:app -b 127.0.0.1:5000
 ```
 ngrok http 5000
 ```
+
+***
+
+### 開發期間
+2022/12/30 ~ 2022/12/31
