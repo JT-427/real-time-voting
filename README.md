@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/67532044/210598076-45a52209-93e7-4863-
 ### 投票結果
 https://user-images.githubusercontent.com/67532044/210598132-43b583ee-742e-4fbc-89bc-062fe0e26e91.mp4    
 
-(搭配OBS)
+*OBS直出畫面*
 
 ***
 
