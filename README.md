@@ -2,11 +2,12 @@
 > 利用WebSocket實現即時顯示投票結果
 ## Demo
 ### 投票畫面
-![img]()
-### 投票結果(搭配OBS)
-![img]()
-### 投票名單
-![img]()
+https://user-images.githubusercontent.com/67532044/210596306-fae274d5-4c42-495d-873d-43890000c64a.mp4
+
+### 投票結果
+https://user-images.githubusercontent.com/67532044/210596376-ef34acf0-6e03-4417-ba5f-19d29cd81eb6.mp4    
+
+(搭配OBS)
 
 ***
 
