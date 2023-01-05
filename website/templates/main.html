@@ -30,10 +30,10 @@
 
         const bars = document.querySelectorAll('.bar');
 
-        bars[0].style.backgroundColor = 'rgba(41, 73, 153, 0.9)';
-        bars[1].style.backgroundColor = 'rgba(168, 52, 51, 0.9)';
-        bars[2].style.backgroundColor = 'rgba(67, 139, 77, 0.9)';
-        bars[3].style.backgroundColor = 'rgba(231, 174, 85, 0.9)';
+        bars[0].style.backgroundColor = 'rgba(41, 73, 153, 0.7)';
+        bars[1].style.backgroundColor = 'rgba(168, 52, 51, 0.7)';
+        bars[2].style.backgroundColor = 'rgba(67, 139, 77, 0.7)';
+        bars[3].style.backgroundColor = 'rgba(231, 174, 85, 0.7)';
         var socket = io.connect();
         socket.on('socketEvent', function(data){
             async function setValue(){
